@@ -483,7 +483,7 @@ class DeckBuilder(QDialog):
     def _build_new_tab(self) -> QWidget:
         w = QWidget()
         ly = QFormLayout(w)
-        ly.setLabelWidth(150)
+        ly.setHorizontalSpacing(10)
 
         self.new_name = QLineEdit()
         self.new_name.setPlaceholderText("ej: Biología PAU 2026 - Genética")
@@ -548,7 +548,7 @@ class DeckBuilder(QDialog):
     def _build_import_tab(self) -> QWidget:
         w = QWidget()
         ly = QFormLayout(w)
-        ly.setLabelWidth(150)
+        ly.setHorizontalSpacing(10)
 
         file_row = QHBoxLayout()
         self.json_path = QLineEdit()
@@ -610,7 +610,7 @@ class DeckBuilder(QDialog):
     def _build_fsrs_tab(self) -> QWidget:
         w = QWidget()
         ly = QFormLayout(w)
-        ly.setLabelWidth(160)
+        ly.setHorizontalSpacing(10)
 
         info = QLabel(
             "<b>Configura la optimización FSRS para tu examen PAU.</b><br><br>"
