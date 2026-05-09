@@ -1,0 +1,22 @@
+{
+  "deck": "Biología PAU 2026 - Genética",
+  "exam_date": "2026-06-15",
+  "cards": [
+    {"front": "¿Qué es la mitosis?", "back": "División celular que produce dos células hijas genéticamente idénticas a la célula madre.", "tags": ["biologia", "celula"]},
+    {"front": "¿Qué es la meiosis?", "back": "División celular reduccional que produce cuatro células haploides genéticamente diversas.", "tags": ["biologia", "celula"]},
+    {"front": "¿Qué es un gen?", "back": "Secuencia de ADN que codifica una proteína o función específica.", "tags": ["genetica"]},
+    {"front": "¿Qué es el ADN?", "back": "Ácido desoxirribonucleico - molécula portadora de la información genética.", "tags": ["genetica", "molecula"]},
+    {"front": "¿Qué es el ARN?", "back": "Ácido ribonucleico - molécula que transmite la información del ADN para la síntesis de proteínas.", "tags": ["genetica", "molecula"]},
+    {"front": "¿Qué es una mutación?", "back": "Cambio permanente en la secuencia de ADN que puede ser beneficioso, neutro o perjudicial.", "tags": ["genetica"]},
+    {"front": "¿Qué es la replicación del ADN?", "back": "Proceso de copia del ADN en el que la doble hélice se deshace y cada hebra sirve de molde para sintetizar una nueva hebra complementaria.", "tags": ["genetica", "replicacion"]},
+    {"front": "¿Qué es la transcripción?", "back": "Proceso de síntesis de ARN a partir de una hebra de ADN molde.", "tags": ["genetica", "expresion"]},
+    {"front": "¿Qué es la traducción?", "back": "Proceso de síntesis proteica en los ribosomas usando el ARN mensajero como molde.", "tags": ["genetica", "expresion"]},
+    {"front": "¿Qué es un cromosoma?", "back": "Estructura de ADN y proteínas (histonas) que contiene genes. Los humanos tienen 46 cromosomas (23 pares).", "tags": ["genetica", "celula"]},
+    {"front": "¿Qué es un alelo?", "back": "Variante alternativa de un gen que ocupa la misma posición (locus) en cromosomas homólogos.", "tags": ["genetica"]},
+    {"front": "¿Qué es la herencia autosómica dominante?", "back": "Un único alelo dominante se expresa y produce el fenotipo aunque haya un alelo recesivo.", "tags": ["genetica", "herencia"]},
+    {"front": "¿Qué es la herencia autosómica recesiva?", "back": "Se necesitan dos alelos recesivos para que se exprese el carácter. El portador heterocigoto no manifiesta el fenotipo.", "tags": ["genetica", "herencia"]},
+    {"front": "¿Qué es la fotosíntesis?", "back": "Proceso por el cual las plantas convierten CO2 y agua en glucosa y oxígeno usando luz solar.", "tags": ["biologia", "metabolismo"]},
+    {"front": "¿Qué es la respiración celular?", "back": "Proceso metabólico que genera ATP oxidando glucosa u otras sustancias orgánicas. Incluye glucólisis, ciclo de Krebs y cadena de transporte de electrones.", "tags": ["biologia", "metabolismo"]},
+    {"front": "¿Qué es la fermentación?", "back": "Proceso anaeróbico de producción de energía que genera lactato (fermentación láctica) o etanol y CO2 (fermentación alcohólica).", "tags": ["biologia", "metabolismo"]}
+  ]
+}
