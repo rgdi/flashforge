@@ -1,10 +1,10 @@
 {
     "name": "FlashForge PAU Deck Builder",
-    "mod": 1742078545,
+    "package": "1742078545",
     "version": "1.0.0",
     "description": "Constructor rapido de mazos PAU: multiples tipos de tarjeta, FSRS inteligente, importacion JSON, bulk-add desde tablas.",
     "author": "rgodim",
     "license": "AGPL-3.0",
     "conflicts": [],
-    "supersedes": []
+    "mod": 1742078545
 }
